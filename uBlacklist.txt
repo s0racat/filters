@@ -1,0 +1,25 @@
+!#adf.ly
+*://adf.ly/*
+!#NAVERまとめ
+*://matome.naver.jp/*
+!#Pinterest
+/^(https|http):\/\/www\.pinterest\./
+*://pinterest.com/*
+!#softonic
+/^(https|http):\/\/.*\.softonic\./
+!Facebook
+*://www.facebook.com/*
+!#侍エンジニア塾
+*://www.sejuku.net/*
+!#from https://www.mcafee.com/ja-jp/antivirus/security/web-domain-risk.html
+*://*.vn/*
+*://*.cm/*
+*://*.am/*
+*://*.cc/*
+*://*.ru/*
+!#個人的詐欺ドメイン
+*://*.online/*
+*://*.vip/*
+*://*.live/*
+*://*.life/*
+*://eng-entrance.com/*
