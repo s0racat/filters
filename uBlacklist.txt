@@ -3,7 +3,7 @@
 !#NAVERまとめ
 *://matome.naver.jp/*
 !#Pinterest
-/^(https|http):\/\/www\.pinterest\./
+/^https:\/\/www\.pinterest\./
 *://pinterest.com/*
 *://*.pinterest.com/*
 !#softonic
