@@ -6,6 +6,7 @@
 /^(https|http):\/\/www\.pinterest\./
 *://pinterest.com/*
 *://br.pinterest.com/*
+*://gr.pinterest.com/*
 !#softonic
 /^(https|http):\/\/.*\.softonic\./
 !Facebook
