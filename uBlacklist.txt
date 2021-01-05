@@ -7,7 +7,7 @@
 *://pinterest.com/*
 *://*.pinterest.com/*
 !#softonic
-/^(https|http):\/\/.*\.softonic\./
+/^https:\/\/.*\.softonic\./
 !Facebook
 *://www.facebook.com/*
 !#侍エンジニア塾
