@@ -10,7 +10,7 @@
 /^https:\/\/.*\.softonic\./
 !Facebook
 *://www.facebook.com/*
-!#侍エンジニア塾
+!#sejuku
 *://www.sejuku.net/*
 !#from https://www.mcafee.com/ja-jp/antivirus/security/web-domain-risk.html
 *://*.vn/*
@@ -18,7 +18,7 @@
 *://*.am/*
 *://*.cc/*
 *://*.ru/*
-!#個人的詐欺ドメイン
+!#詐欺
 *://*.online/*
 *://*.vip/*
 *://*.live/*
