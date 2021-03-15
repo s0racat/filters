@@ -12,16 +12,16 @@
 *://www.facebook.com/*
 !#sejuku
 *://www.sejuku.net/*
+!#eng-entrance
+*://eng-entrance.com/*
 !#from https://www.mcafee.com/ja-jp/antivirus/security/web-domain-risk.html
 *://*.vn/*
 *://*.cm/*
 *://*.am/*
 *://*.cc/*
 *://*.ru/*
-!#詐欺
 *://*.online/*
 *://*.vip/*
 *://*.live/*
 *://*.life/*
-*://eng-entrance.com/*
 *://*.cl/*
