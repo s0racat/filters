@@ -2,18 +2,23 @@
 *://adf.ly/*
 !#NAVERまとめ
 *://matome.naver.jp/*
-!#Pinterest
+!#pinterest
 /^https:\/\/www\.pinterest\./
 *://pinterest.com/*
 *://*.pinterest.com/*
 !#softonic
 /^https:\/\/.*\.softonic\./
-!#Facebook
+!#facebook
 *://www.facebook.com/*
 !#sejuku
 *://www.sejuku.net/*
 !#eng-entrance
 *://eng-entrance.com/*
+!#techacademy
+*://techacademy.jp/*
+!#udemy
+*://udemy.benesse.co.jp/*
+*://(www.)?udemy.com//*
 !#from https://www.mcafee.com/ja-jp/antivirus/security/web-domain-risk.html
 *://*.vn/*
 *://*.cm/*
