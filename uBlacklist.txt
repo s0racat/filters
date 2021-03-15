@@ -8,7 +8,7 @@
 *://*.pinterest.com/*
 !#softonic
 /^https:\/\/.*\.softonic\./
-!Facebook
+!#Facebook
 *://www.facebook.com/*
 !#sejuku
 *://www.sejuku.net/*
