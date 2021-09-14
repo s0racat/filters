@@ -1,5 +1,3 @@
-!#adf.ly
-*://adf.ly/*
 !#NAVERまとめ
 *://matome.naver.jp/*
 !#pinterest
