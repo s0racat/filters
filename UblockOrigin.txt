@@ -1,3 +1,6 @@
+! hide twitter trends
+twitter.com##*[aria-label="Timeline: Trending now"]
+! hide youtube comments
 youtube.com###comments
 *://*.vn/*
 *://*.cm/*
