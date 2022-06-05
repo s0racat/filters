@@ -1,3 +1,7 @@
+! Title: soracat's filterlist
+! Description: My filterlist
+! Author: soracat
+! Expires: 10 days
 ! hide youtube comments
 youtube.com###comments
 *://*.vn/*
