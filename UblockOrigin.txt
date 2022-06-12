@@ -4,6 +4,8 @@
 ! Expires: 10 days
 ! hide youtube comments
 youtube.com###comments
+! 2022-06-11 https://www.youtube.com
+www.youtube.com###comment-teaser > .ytd-watch-metadata.style-scope
 *://*.vn/*
 *://*.cm/*
 *://*.am/*
