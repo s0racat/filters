@@ -1,0 +1,6 @@
+203.137.165.21  pawoo.net
+203.137.165.217 pawoo.net
+203.137.162.95  pawoo.net
+203.137.165.21  img.pawoo.net
+203.137.165.217 img.pawoo.net
+203.137.162.95  img.pawoo.net
