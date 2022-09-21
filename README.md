@@ -8,6 +8,10 @@ __[uBlacklist.txt raw](https://raw.githubusercontent.com/soracqt/filters/master/
 
 __[UblockOrigin.txt raw](https://raw.githubusercontent.com/soracqt/filters/master/UblockOrigin.txt)__
 
+## pawoo hosts
+
+__[pawoo.txt raw](https://raw.githubusercontent.com/soracqt/filters/master/pawoo.txt)__
+
 ## Recommends
 
 https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
