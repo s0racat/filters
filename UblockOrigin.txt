@@ -23,12 +23,21 @@ www.youtube.com###comments > .ytd-comments.style-scope
 e-words.jp###forvisitors
 
 ! 2023-01-01 https://twitter.com
-! !!! SIDEBAR !!! !
 ! Sidebar - Topics to follow
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+
 ! Sidebar - Trending now/Trends for you
 twitter.com##[aria-label$="trending now" i]
 twitter.com##[aria-label$="タイムライン: トレンド"]
+
 ! Sidebar - Who to follow/You might like
-twitter.com##[aria-label="who to follow" i]
+twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com##[aria-label="おすすめユーザー"]:upward(1)
+
+! DM
+twitter.com##[data-testid="DMDrawer"] > div
+
+! Impression
+twitter.com##article [role="group"] > div > div:has([href$="/analytics"])
+twitter.com##article [role="group"] > div:has(>[href$="/analytics"])
+
