@@ -1,11 +1,13 @@
-! Title: soracat's filterlist
+! Title: My filterlist
 ! Description: My filterlist
-! Author: soracat
+! Author: xxxxx
 ! Expires: 10 days
+
 ! hide youtube comments
 youtube.com###comments
-! 2022-06-11 https://www.youtube.com
-www.youtube.com###comment-teaser > .ytd-watch-metadata.style-scope
+! 2023-01-01 https://www.youtube.com
+www.youtube.com###comments > .ytd-comments.style-scope
+
 *://*.vn/*
 *://*.cm/*
 *://*.am/*
@@ -16,5 +18,17 @@ www.youtube.com###comment-teaser > .ytd-watch-metadata.style-scope
 *://*.live/*
 *://*.life/*
 *://*.cl/*
+
 ! 2022-05-24 https://e-words.jp
 e-words.jp###forvisitors
+
+! 2023-01-01 https://twitter.com
+! !!! SIDEBAR !!! !
+! Sidebar - Topics to follow
+twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+! Sidebar - Trending now/Trends for you
+twitter.com##[aria-label$="trending now" i]
+twitter.com##[aria-label$="タイムライン: トレンド"]
+! Sidebar - Who to follow/You might like
+twitter.com##[aria-label="who to follow" i]
+twitter.com##[aria-label="おすすめユーザー"]:upward(1)
