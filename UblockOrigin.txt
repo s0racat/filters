@@ -18,5 +18,3 @@ www.youtube.com###comment-teaser > .ytd-watch-metadata.style-scope
 *://*.cl/*
 ! 2022-05-24 https://e-words.jp
 e-words.jp###forvisitors
-! 2022-08-28 https://abema.tv
-abema.tv##.com-application-NotificationToast
