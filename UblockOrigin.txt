@@ -1,6 +1,6 @@
 ! Title: My filterlist
 ! Description: My filterlist
-! Author: xxxxx
+! Author: soracat
 ! Expires: 10 days
 
 ! hide youtube comments
