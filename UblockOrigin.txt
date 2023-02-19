@@ -41,3 +41,6 @@ twitter.com##[data-testid="DMDrawer"] > div
 twitter.com##article [role="group"] > div > div:has([href$="/analytics"])
 twitter.com##article [role="group"] > div:has(>[href$="/analytics"])
 
+! nicovideo.jp Do not show news when watching video
+www.nicovideo.jp##.MarqueeContainer
+
