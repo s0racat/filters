@@ -44,3 +44,7 @@ twitter.com##article [role="group"] > div:has(>[href$="/analytics"])
 ! nicovideo.jp Do not show news when watching video
 www.nicovideo.jp##.MarqueeContainer
 
+! 2023-03-28 https://www.nicovideo.jp
+www.nicovideo.jp##.PreVideoStartPremiumLinkOnEconomyTimeContainer
+
+
