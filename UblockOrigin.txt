@@ -47,4 +47,4 @@ www.nicovideo.jp##.MarqueeContainer
 ! 2023-03-28 https://www.nicovideo.jp
 www.nicovideo.jp##.PreVideoStartPremiumLinkOnEconomyTimeContainer
 
-
+twitter.com##[aria-label="Get Verified"]
