@@ -48,3 +48,5 @@ www.nicovideo.jp##.MarqueeContainer
 www.nicovideo.jp##.PreVideoStartPremiumLinkOnEconomyTimeContainer
 
 twitter.com##[aria-label="Get Verified"]
+
+search.yahoo.co.jp###pop
