@@ -16,6 +16,4 @@ __[pawoo.txt raw](https://gitlab.com/takuoh/filters/-/raw/master/pawoo.txt)__
 
 https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
 
-https://raw.githack.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 
-https://raw.githubusercontent.com/tofukko/filter/master/Adblock_Plus_list.txt
