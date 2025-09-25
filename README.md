@@ -2,15 +2,15 @@
 
 ## uBlacklist.txt
 
-__[uBlacklist.txt raw](https://gitlab.com/takuoh/filters/-/raw/master/uBlacklist.txt)__
+https://raw.githubusercontent.com/s0racat/filters/refs/heads/master/uBlacklist.txt
 
 ## Ublock Origin
 
-__[UblockOrigin.txt raw](https://gitlab.com/takuoh/filters/-/raw/master/UblockOrigin.txt)__
+https://raw.githubusercontent.com/s0racat/filters/refs/heads/master/UblockOrigin.txt
 
 ## pawoo hosts
 
-__[pawoo.txt raw](https://gitlab.com/takuoh/filters/-/raw/master/pawoo.txt)__
+https://raw.githubusercontent.com/s0racat/filters/refs/heads/master/pawoo.txt
 
 ## Recommends
 
